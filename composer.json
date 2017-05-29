@@ -1,0 +1,15 @@
+{
+    "name": "passadeem56/calculator",
+    "authors": [
+        {
+            "name": "passadeem56",
+            "email": "passadeem56@email.nu.ac.th"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "passadeem56\\Calculator\\": "src/"
+        }
+    }
+}
